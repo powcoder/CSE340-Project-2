@@ -1,0 +1,15 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+SCALAR x y z
+ARRAY a b c
+{
+x = a[x]+z[x];
+y = 2;
+a[.] = c+b;  
+}
